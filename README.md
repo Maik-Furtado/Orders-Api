@@ -16,8 +16,6 @@
 
 ### How to Test This API ###
 
-> Note: Make sure ports **8080** and **3306** are free on your machine before proceeding.
-
 
 1. Clone the repository:
     ```
